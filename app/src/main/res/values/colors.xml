@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="kashmir_blue">#557799</color>
+    <color name="bali_hai">#88A0B7</color>
+
+    <color name="Fuego_first_addon_top">#B2D234</color>
+    <color name="yellow_green">#C9DF71</color>
+
+
+    <color name="cerise_pink_fifth_top_add_on">#ED2A7B</color>
+    <color name="magenta_fifth_bottom_add_on">#F26AA2</color>
+
+    <color name="Flamingo_fourth_addon_top">#F15E22</color>
+    <color name="Salmon_fourth_addon_bottom">#F58E64</color>
+
+
+    <color name="Java_third_add_on_top">#2DBDB6</color>
+    <color name="Downy_third_add_on_bottom">#6CD0CC</color>
+
+
+    <color name="dull_lime_second_add_on_top">#50B948</color>
+    <color name="de_york_second_add_on_bottom">#84CE7F</color>
+</resources>
