@@ -3,7 +3,7 @@
     <string name="get_data_manager_error">getDataManager error. Please login again.</string>
     <string name="permission_from_setting_access">Kindly allow Camera And Storage Permission from App Settings, without this permission app could not scan or capture images.</string>
 
-    <string name="permission_must_required_msg">Kindly allow Camera ,location and Storage Permission, without these permission app could not access/save Images and user Locations.</string>
+    <string name="permission_must_required_msg">Kindly allow Camera ,location and Storage Permission, without these permission app could not access/save Images and user Location.</string>
     <string name="permission_required">Permission Required</string>
     <string name="OK">OK</string>
     <string name="CANCEL">CANCEL</string>

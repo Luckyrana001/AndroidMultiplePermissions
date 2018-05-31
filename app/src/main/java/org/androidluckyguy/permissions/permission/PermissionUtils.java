@@ -156,7 +156,7 @@ public class PermissionUtils
                                 permissionResultCallback.NeverAskAgain(req_code);
                                 //Toast.makeText(activity, "Go to settings and enable permissions", Toast.LENGTH_LONG).show();
 
-                                askUserToAllowPermissionFromSetting(activity.getResources().getString(R.string.camera_permission_msg));
+                                askUserToAllowPermissionFromSetting();
                                 return;
                             }
                         }
@@ -233,7 +233,7 @@ public class PermissionUtils
     }
 
 
-    private void askUserToAllowPermissionFromSetting(String msg) {
+    private void askUserToAllowPermissionFromSetting() {
         new MaterialDialog.Builder(activity)
                 .title(activity.getResources().getString(R.string.permission_required))
                 .content(activity.getResources().getString(R.string.permission_from_setting_access))
